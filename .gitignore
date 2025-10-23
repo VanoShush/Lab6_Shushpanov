@@ -75,6 +75,8 @@ StyleCopReport.xml
 *_h.h
 *.ilk
 *.meta
+!Test/Model/Var24_Shushpanov_Lab3_Ready.obj
+!Test/Model/Sphere.obj
 *.obj
 *.iobj
 *.pch
